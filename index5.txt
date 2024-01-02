@@ -1,0 +1,25 @@
+Form ekta structure jta r purpose holo user er data input neya or collect kora.
+Tags Needed in forms:
+                1. form tag: form create er jonnorder
+                2. input tag: form er input nite,,jta e type define kore different kora jai.
+                3. label tag: field a ki insert korbe seta r jonno j text seta k label bole..label a must for attribute thakbe jta input er id attribute er equal hoite hobe.
+                4. form element: 
+                                input--> input nite
+                                label--> username,password, mane box er age text add korte.
+                                select--> drop down menu create korte
+                                option--> drop down box a item add korte
+                                button--> button create korte
+                                textarea--> for long text add korte
+                                fieldset--> form er moddhe section gulo k group korte...e.g, male,others and female...pura ta ekta border er moddhe aney
+                                legend--> caption dite..
+                                3. action attribute: form submit korbo server side ase jonno action er url gula post or get method call kora hoi
+                5. input element: 
+                                textfield--> text input nite
+                                button--> button create korte
+                                radio--> radio button create korte
+                                checkbox--> check box create korte...rectangle box
+                                file-select--> file upload dite...
+                                image--> image upload dite...like profile a..
+                                password--> password field o create kora jai...
+                                date--> datepicker create korte...
+
